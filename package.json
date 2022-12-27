@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zeus-IQ/gdsc-search/issues"
   },
-  "homepage": "https://github.com/Zeus-IQ/gdsc-search#readme"
+  "homepage": "https://github.com/Zeus-IQ/gdsc-search#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
