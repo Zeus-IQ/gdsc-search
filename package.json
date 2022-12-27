@@ -1,0 +1,19 @@
+{
+  "name": "gdsc-search",
+  "version": "1.0.0",
+  "description": "Certificates Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeus-IQ/gdsc-search.git"
+  },
+  "author": "Mo Adnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeus-IQ/gdsc-search/issues"
+  },
+  "homepage": "https://github.com/Zeus-IQ/gdsc-search#readme"
+}
